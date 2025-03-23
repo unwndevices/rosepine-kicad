@@ -1,0 +1,25 @@
+{
+  "$schema": "https://go.kicad.org/pcm/schemas/v1",
+  "name": "RosePine",
+  "description": "Soothing pastel theme for KiCad",
+  "description_full": "Rose Pine theme for KiCad, for both eeschema and pcbnew.",
+  "identifier": "com.github.unwndevices.rose-pine-kicad",
+  "type": "colortheme",
+  "author": {
+    "name": "unwndevices",
+    "contact": {
+      "github": "https://github.com/unwndevices"
+    }
+  },
+  "license": "MIT",
+  "resources": {
+    "homepage": "https://github.com/unwndevices/rose-pine-kicad"
+  },
+  "versions": [
+    {
+      "version": "0.1.1",
+      "status": "development",
+      "kicad_version": "7.0"
+    }
+  ]
+}
